@@ -1,8 +1,10 @@
 # AProgramar
 Proyecto que surge de la intención de volver a practicar código de nuevo.
 
-## ¿Qué hora es?
-## ¡Es hora de programar!
+```
+¿Qué hora es?
+¡Es hora de programar!
+```
 
 ## Comenzando 🚀
 He creado un Reloj de aguja que funciona, es un proyecto sencillo sin complicaciones con vanilla javascript.
